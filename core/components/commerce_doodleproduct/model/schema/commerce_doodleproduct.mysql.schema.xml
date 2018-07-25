@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model package="commerce_doodleproduct" baseClass="comSimpleObject" platform="mysql" defaultEngine="MyISAM" version="1.1">
+    <!--<object class="DoodleproductOrderMessage" extends="comOrderMessage" />-->
+    <!-- Since we are only extending comProduct in this module, we only need to uncomment out this line -->
+    <object class="DoodleproductProduct" extends="comProduct" />
+    <!--<object class="DoodleproductShippingMethod" extends="comShippingMethod" />-->
+</model>

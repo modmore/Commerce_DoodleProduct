@@ -1,0 +1,4 @@
+++ Doodle Product for Commerce
+++ Released on 2018-07-25
+++++++++++++++++++++++++++
+- First release
